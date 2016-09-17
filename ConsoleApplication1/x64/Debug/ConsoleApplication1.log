@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\łukasz\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(526): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\łukasz\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(533): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.cpp(532): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Source.cpp(539): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  11 of 438 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Release\ConsoleApplication1.exe

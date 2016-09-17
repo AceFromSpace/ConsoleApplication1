@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\łukasz\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(1): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
